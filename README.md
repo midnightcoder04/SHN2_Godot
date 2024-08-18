@@ -5,18 +5,25 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+Project is a snake game where you don't lose. Also there is a feature to multiply to stack up points easily (made for lazy people). 
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Midnightcoder04](https://github.com/midnightcoder04)
+2. [AthulChristy](https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
-[link to video](Link Here)
+[Will Update in the future](Link Here)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. Initiate states and snakes
+2. Collision causes actions to perform
+3. Arrow and movement keys change states to move
+4. M to multiply
 ## Libraries used
-Library Name - Version
+Library Name - Godot Version 4.3 (Updated on 15th August)
 ## How to configure
-Instructions for setting up project
+Download the files
+Unzip any zip files if exists
+Keep it all in the same folder
 ## How to Run
-Instructions for running
+1. Open the folder on Vscode
+2. Install Live Server extension on Github to open the files on a local server or
+   Alternatively go the the directory and type "python -m http.server" (does same)
+3. Run on server with the extension (will happen automatically if using the other method)
