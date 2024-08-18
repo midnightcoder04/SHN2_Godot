@@ -2,8 +2,7 @@
 
 ![godotnotion](https://github.com/user-attachments/assets/45bfa5c9-7e8a-4e64-bde3-a2db95e0762e)
 
-
-
+#
 # Project Name
 Project is a snake game where you don't lose. Also there is a feature to multiply to stack up points easily (made for lazy people). 
 ## Team members
