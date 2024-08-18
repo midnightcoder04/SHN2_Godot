@@ -7,8 +7,8 @@
 # Project Name
 Project is a snake game where you don't lose. Also there is a feature to multiply to stack up points easily (made for lazy people). 
 ## Team members
-1. [Athul Christy](https://github.com/athulchristy)
-2. [Midnightcoder04](https://github.com/midnightcoder04)
+1. [Midnightcoder04](https://github.com/midnightcoder04)
+2. [Athul Christy](https://github.com/athulchristy)
 ## Link to product walkthrough
 [Will Update in the future](Link Here)
 ## How it Works ?
