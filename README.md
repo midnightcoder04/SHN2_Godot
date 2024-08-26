@@ -4,7 +4,7 @@
 
 
 
-# Project Name
+# Snake Game Infinite
 Project is a snake game where you don't lose. Also there is a feature to multiply to stack up points easily (made for lazy people). 
 ## Team members
 1. [Midnightcoder04](https://github.com/midnightcoder04)
